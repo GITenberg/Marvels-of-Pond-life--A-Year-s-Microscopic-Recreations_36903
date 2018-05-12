@@ -1,0 +1,34 @@
+_repo: Marvels-of-Pond-life--A-Year-s-Microscopic-Recreations_36903
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36903-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Slack, Henry James
+    alias: Slack, H. J. (Henry James)
+    birthdate: 1818
+    deathdate: 1896
+    gutenberg_agent_id: '38530'
+    url: http://www.gutenberg.org/2009/agents/38530
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Microscopy
+- Animals-Wild
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Microscopy'
+- !lcsh 'Pond animals'
+- !lcc 'QL'
+- !lcsh 'Freshwater animals -- England'
+title: "Marvels of Pond-life\r\nOr, A Year's Microscopic Recreations Among the Polyps,\
+  \ Infusoria, Rotifers, Water-bears and Polyzoa"
+url: http://www.gutenberg.org/ebooks/36903
